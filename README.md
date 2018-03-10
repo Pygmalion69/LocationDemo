@@ -2,4 +2,4 @@
 OSMDroid with Google Play Services:
 
 
-http://pygmalion.nitri.de/osmdroid-with-google-play-location-services-664.html
+http://pygmalion.nitri.org/osmdroid-with-google-play-location-services-664.html
